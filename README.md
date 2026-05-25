@@ -32,6 +32,7 @@ Source: Kaggle
     Compared predicted salaries with actual salaries.
 
 ## Screenshots
+This is my dashboard : https://github.com/impanadeshpande-hue/Job_salary_prediction/blob/main/job_salary_prediction_dashboard.png
 
 
 
